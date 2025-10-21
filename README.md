@@ -31,7 +31,4 @@ Key operations demonstrated:
 | **Logging** | Using `printk()` and viewing logs with `dmesg`. |
 | **Build System** | Creating a Makefile to compile the driver against kernel headers. |
 
----
-
-## ⚙️ File Structure
 
